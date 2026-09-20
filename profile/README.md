@@ -64,10 +64,10 @@ By standardizing point-of-care data capture and runtime execution, Open Health O
 
 ## Build With Us
 
-Open Health OS is an open engineering effort. We are actively inviting developers, healthcare architects, and research partners to help shape the standard.
+Open Health OS is an open engineering effort to establish the first **OHOS-Compliant** edge runtime and driver ecosystem. We are actively inviting healthcare architects, systems engineers, and research partners to help shape the spec and build the foundational codebase.
 
-* **Architectural RFCs:** Review active specifications or propose core additions via GitHub Discussions.
-* **Drivers & SDK Extensions:** We welcome contributions for hardware abstraction layers, FHIR translation profiles, and runtime benchmarks.
+* **Architectural RFCs:** Help define what it means to be **OHOS-Compliant** across hardware abstractions, model runtimes, and FHIR data streams in `open-health-spec`.
+* **Drivers & SDK Extensions:** Contribute open hardware abstraction layers for clinical probes, monitors, and imaging devices.
 * **Pilot Engagements:** If you are building edge medical AI or sovereign cloud integrations, open a conversation in our organization repository.
 
 ---
